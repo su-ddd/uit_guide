@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the UIT Guide Page feature.
+ */
+
+include_once 'uit_guide.features.inc';
